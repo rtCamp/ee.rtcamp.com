@@ -10,7 +10,7 @@ For maximum speed, ease of use and general hosting goodness we'll be using a fol
 
 * ### **[[Install EasyEngine|Installation]]**
 
-* ### **[[Install Packages|Stack Install]]**
+* ### **[[Install Packages|Install-Packages]]**
 
 * ### **[[Create Website]]**
 
